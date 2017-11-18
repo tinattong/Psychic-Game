@@ -1,0 +1,19 @@
+.container{	
+	margin-top: 2.5%;
+	border-style: solid;
+	border-width: 25px;
+	
+}
+
+.row {
+	background-color: grey;
+}
+
+.header {
+	color: white;
+  	padding: 30px;
+ }
+
+.user-letters {
+ 	text-align: center;
+ }
